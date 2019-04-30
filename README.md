@@ -1,3 +1,2 @@
 # datasciencecoursera
-### The repo for the data science class.
-* test 1
+### The repo is for the data science class.
